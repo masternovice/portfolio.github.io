@@ -1,0 +1,8 @@
+.row{outline:1px solid red;}
+.column{outline:1px solid blue;}
+
+@media only screen and (max-width:1000px) {
+  .column{
+        background-color: lightblue;
+    }
+}
